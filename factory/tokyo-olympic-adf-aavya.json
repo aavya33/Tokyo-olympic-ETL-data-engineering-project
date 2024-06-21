@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-adf-aavya",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "869c95d9-951e-4e28-93c2-3943f5439d1f",
+		"tenantId": "577d1d4c-efaa-4a66-a565-cb91e3d7e1b0"
+	}
+}
